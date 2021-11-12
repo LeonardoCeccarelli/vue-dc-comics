@@ -14,7 +14,7 @@
         ></ComicCard>
       </div>
       <div class="btn_container">
-        <button type="button">LOAD MORE</button>
+        <button type="button">LOAD MORE!</button>
       </div>
     </div>
   </main>
